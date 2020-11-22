@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CCSL_Tute_2</string>
+    <string name="ToActivity2">ToActivity 2</string>
+    <string name="ToBack">To Back</string>
+    <string name="changeText">Change Text</string>
+    <string name="toActivity2">To Activity 2 By method</string>
+    <string name="emptyValue">Value Note Recieved</string>
+    <string name="oneValBtn">Send One Value</string>
+    <string name="fromSingleVal_Intent">From Single Value Intent</string>
+    <string name="university">SLIIT</string>
+    <string name="UniYearCap">Year</string>
+    <string name="batchCap" />
+    <string name="BatchCaption">Batch</string>
+    <string name="sendMultipleValuesq">Send Multiple Values</string>
+    <string name="batchCap2">Batch</string>
+    <string name="uniCAp">University</string>
+    <string name="implicitIntCap">To Implicit Intent Activity</string>
+    <string name="StatrtEmail">Statrt Email</string>
+    <string name="OpenWebBrowser">Open Web Browser</string>
+    <string name="TextMessage">Text Message</string>
+    <string name="ToMusic">ToMusic</string>
+</resources>
